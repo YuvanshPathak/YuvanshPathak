@@ -8,7 +8,7 @@ Web Developer, UI/UX Designer
 * ✉️  You can contact me at [pathakyuvansh1994@gmail.com](mailto:pathakyuvansh1994@gmail.com)
 * 🚀  I'm currently working on [Angular](http://yuvanshpathak)
 * 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on JS, React, Next
+* 🤝  I'm open to collaborating on MERN
 
 ### Skills
 
