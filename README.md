@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, UI/UX Designer
 -----------------------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [pathakyuvansh1994@gmail.com](mailto:pathakyuvansh1994@gmail.com)
-* 🚀  I'm currently working on [Angular](http://yuvanshpathak)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on MERN
+* 🌍  I'm based in India
+* ✉️  You can contact me at [pathakyuvansh1994@gmail.com](mailto:pathakyuvansh1994@gmail.com)
+* 🚀  I'm currently working on [Angular](http://yuvanshpathak)
+* 🧠  I'm learning Angular
+* 🤝  I'm open to collaborating on MERN
 
 ### Skills
 
@@ -21,3 +21,11 @@ Web Developer, UI/UX Designer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/yuvanshpathak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/YuvanshPathak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yuvansh-pathak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuvanshPathak/YuvanshPathak/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuvanshPathak/YuvanshPathak/output/dist/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuvanshPathak/YuvanshPathak/output/dist/github-snake.svg" />
+</picture>
