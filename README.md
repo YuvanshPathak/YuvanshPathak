@@ -7,7 +7,7 @@ Web Developer, UI/UX Designer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pathakyuvansh1994@gmail.com](mailto:pathakyuvansh1994@gmail.com)
 * 🚀  I'm currently working on [Go](https://go.dev/)
-* 🧠  I'm learning Go
+* 🧠  I'm learning GoLang
 * 🤝  I'm open to collaborating on MERN
 
 ### Skills
